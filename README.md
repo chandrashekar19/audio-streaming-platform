@@ -107,6 +107,7 @@ Replace the placeholder values with your actual Convex & Clerk credentials. You 
 
 ```bash
 npm run dev
+npx convex dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
